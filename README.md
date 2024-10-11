@@ -1,5 +1,5 @@
 # 使用技術
-- EntityFramework
+- EntityFramework 對資料庫進行存取。
 
 - 頁面展示
 ![1](images/index.png)
